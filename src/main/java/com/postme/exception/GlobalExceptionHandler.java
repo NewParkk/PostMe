@@ -1,4 +1,4 @@
-package com.postme.config;
+package com.postme.exception;
 
 public class GlobalExceptionHandler {
 
